@@ -7,5 +7,6 @@
 *.pyo
 build/
 dist/
+/.idea
 helloworld.db
 local_settings.py
